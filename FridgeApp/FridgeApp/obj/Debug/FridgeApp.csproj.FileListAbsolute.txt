@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\bin\Debug\FridgeApp.exe.config
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\bin\Debug\FridgeApp.exe
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\bin\Debug\FridgeApp.pdb
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\bin\Debug\MetroFramework.dll
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\obj\Debug\FridgeApp.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\obj\Debug\FridgeApp.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\obj\Debug\FridgeApp.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\obj\Debug\FridgeApp.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\obj\Debug\FridgeApp.exe
+C:\Users\Korisnik\Desktop\FridgeApp\FridgeApp\obj\Debug\FridgeApp.pdb
